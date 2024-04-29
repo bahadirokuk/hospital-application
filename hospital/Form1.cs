@@ -1,6 +1,4 @@
 using System.Data.SqlClient;
-using hastane.hospital.dbFonk;
-
 
 namespace hastane
 {
